@@ -14,8 +14,11 @@ An explanation of how to represent the labels using one hot encoding. These are 
 
 ###  Test with your own image 
 You can now take a picture of your hand and see the output of your model. To do that:
+
     1. Add your image to this Jupyter Notebook's directory, in the "images" folder
+    
     2. Write your image's name in the following code
+    
     3. Run the code and check if the algorithm is right!
     
 Sample Test ::
